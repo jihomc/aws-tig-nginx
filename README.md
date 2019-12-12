@@ -443,7 +443,7 @@ server {
 
         listen 443 ssl http2;
         listen [::]:443 ssl http2;
-        server_name mydomain.net www.mydomain.net;
+        server_name mydomain.com www.mydomain.com;
 	
  	# Enter SSL configuration here
 
