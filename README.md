@@ -7,12 +7,12 @@
 How to set up an Amazon aws ec2 instance with the Telegraf, InfluxDB, and Grafana (TIG) stack for system monitoring dashboards, with an Nginx reverse proxy in front to enable HTTPS access via the web from my personal domain.
 
 
-####Snapshot of Grafana Dashboard
+#### Snapshot of Grafana Dashboard
 
 
 ctrl+click to open in new tab
 
-####[Grafana Dashboard](https://mclegg.net/dashboard/snapshot/gzF3THJOVBzJIqLWZDieioOFKSSz6K9L?orgId=1/)
+#### [Grafana Dashboard](https://mclegg.net/dashboard/snapshot/gzF3THJOVBzJIqLWZDieioOFKSSz6K9L?orgId=1/)
 
 
 
